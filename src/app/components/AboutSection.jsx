@@ -16,7 +16,9 @@ const TAB_DATA = [
         <li>Node.js</li>
         <li>shadcn.ui</li>
         <li>prisma.io</li>
-        <li>cloudinary</li>
+        <li>Tailwind</li>
+        <li>OOP</li>
+        
       </ul>
     ),
   },
@@ -65,7 +67,7 @@ const AboutSection = () => {
           I'm excited to launch my career as a Software Engineer, 
           bringing fresh ideas and a dedication to continuous growth. 
           I'm actively seeking opportunities to contribute my skills and learn from experienced professionals in the field.
-Thank you for visiting my profile!
+          Thank you for visiting my profile!
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
